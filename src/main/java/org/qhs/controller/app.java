@@ -11,7 +11,8 @@ import org.springframework.web.bind.annotation.RestController;
 public class app {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub4
-		System.out.println("112");
+		System.out.println("out");
+		System.out.println("好奇快");
 		SpringApplication.run(app.class, args);
 	}
 }
