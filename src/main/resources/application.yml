@@ -1,0 +1,9 @@
+datasource:
+       url: jdbc:oracle:thin:@172.16.10.225:1521:FBZL
+       username: FBZLKF
+       password: FBZLKF
+       driver-class-name: oracle.jdbc.driver.OracleDriver
+jpa:
+  hibernate:
+     ddl-auto: update
+     show-sql: true
