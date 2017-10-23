@@ -14,6 +14,7 @@ public class app {
 		System.out.println("out");
 		System.out.println("好奇快");
         System.out.println("这个是最奇怪的");
-        SpringApplication.run(app.class, args);
+		System.out.println("烦");
+		SpringApplication.run(app.class, args);
 	}
 }
