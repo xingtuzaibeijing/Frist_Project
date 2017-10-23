@@ -13,6 +13,7 @@ public class app {
 		// TODO Auto-generated method stub4
 		System.out.println("out");
 		System.out.println("好奇快");
-		SpringApplication.run(app.class, args);
+        System.out.println("这个是最奇怪的");
+        SpringApplication.run(app.class, args);
 	}
 }
