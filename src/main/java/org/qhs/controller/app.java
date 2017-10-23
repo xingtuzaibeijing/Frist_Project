@@ -12,6 +12,7 @@ public class app {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub4
 		System.out.println("112");
+		System.out.println("是不是分支合并后就没用了");
 		SpringApplication.run(app.class, args);
 	}
 }
