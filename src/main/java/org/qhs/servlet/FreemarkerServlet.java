@@ -68,6 +68,9 @@ public class FreemarkerServlet  extends HttpServlet {
         try {
             template = configuration.getTemplate("model.ftl");
             template.setEncoding("utf-8");
+            System.out.println("奇怪");
+            System.out.println("支线");
+            System.out.println("测试");
         } catch (IOException e) {
             e.printStackTrace();
         }
